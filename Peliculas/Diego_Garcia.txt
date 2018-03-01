@@ -1,0 +1,6 @@
+Nombre: Diego Garcia
+
+Peliculas Favoritas:
+	- Deadpool
+	- Interestelar
+	- Gone Girl
