@@ -1,5 +1,5 @@
-#En este documento vamos a listar las ideas de los estudiantes para el proyecto final.
+# Ideas para Asignacion Final
 
-**IDEAS**
-1. Trabajar con HTML & CSS básico para 2 páginas estáticas (Gabriel)
+* Trabajar con HTML & CSS básico para 2 páginas estáticas (Gabriel)
 
+* Michelle Lemus: Codigo sencillo en lenguaje C o lenguaje de algoritmo que consista de una ecuacion sencilla
