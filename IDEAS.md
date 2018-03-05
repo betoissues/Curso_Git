@@ -1,3 +1,3 @@
-Mi idea para el proyecto final es hacer una pagina donde cada miembro 
-del curso ponga si se cumplieron las espectativas del curso y 
-recomendaciones.
+Mi idea para el trabajo final es hacer una pagina donde pongamos si se 
+cumplieron nuestras espectativas de curso y recomendaciones futuras 
+-Juan Esquijarosa
