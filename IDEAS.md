@@ -1,4 +1,4 @@
-# Ideas para Asignacion Final
+﻿# Ideas para Asignacion Final
 
 * Trabajar con HTML & CSS básico para 2 páginas estáticas (Gabriel)
 
@@ -6,3 +6,6 @@
 
 * Mi idea para el trabajo final es hacer una pagina donde pongamos si se 
 cumplieron nuestras espectativas de curso y recomendaciones futuras (Juan Esquijarosa)
+
+* Mi idea es usar una plantilla prediseñada de html para tener algo rápido y bonito, 
+ya que tengo muchas, y para ahorrar tiempo. (Carlos Felipe)
