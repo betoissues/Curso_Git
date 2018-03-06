@@ -9,3 +9,5 @@ cumplieron nuestras espectativas de curso y recomendaciones futuras (Juan Esquij
 
 * Mi idea es usar una plantilla prediseñada de html para tener algo rápido y bonito, 
 ya que tengo muchas, y para ahorrar tiempo. (Carlos Felipe)
+
+* Mi idea para el proyecto es realizar una pagina acerca de git. (concepto, todas sus funciones, para que se utiliza ... etc)
