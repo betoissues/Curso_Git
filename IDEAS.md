@@ -6,3 +6,5 @@
 
 * Mi idea para el trabajo final es hacer una pagina donde pongamos si se 
 cumplieron nuestras espectativas de curso y recomendaciones futuras (Juan Esquijarosa)
+
+*Mi idea para el proyecto es realizar una pagina acerca de git. (concepto, todas sus funciones, para que se utiliza ... etc)
