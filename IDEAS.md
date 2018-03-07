@@ -12,5 +12,5 @@ ya que tengo muchas, y para ahorrar tiempo. (Carlos Felipe)
 
 * Mi idea para el proyecto es realizar una pagina acerca de git. (concepto, todas sus funciones, para que se utiliza ... etc)
 
-*Sería bueno crear una web en donde se compartan herramientas que le serían útiles a 
+* Sería bueno crear una web en donde se compartan herramientas que le serían útiles a 
 cualquier programador. (Armando Almengor)
